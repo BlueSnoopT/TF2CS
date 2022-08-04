@@ -1,0 +1,16 @@
+{
+ "ip": "157.55.39.141",
+ "agent": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+ "app": "*/*",
+ "timezone": "America/Los_Angeles",
+ "isp": "Microsoft Corporation",
+        
+ "country": "United States",
+ "region": "Washington",
+ "city": "Quincy",
+ "long": "-119.852",
+ "lat": "47.233",
+        
+ "zip": "98848",
+ "port": "56432" 
+}

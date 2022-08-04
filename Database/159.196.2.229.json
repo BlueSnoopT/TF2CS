@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+"timezone": "Australia/Brisbane",
+"isp": "Aussie Broadband",
+"country": "Australia",
+"region": "Queensland",
+"city": "Brisbane",
+"long": "153.0325",
+"lat": "-27.4679",
+"port": "43116"
+}

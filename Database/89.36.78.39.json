@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+"timezone": "America/Toronto",
+"isp": "M247 Ltd",
+"country": "Canada",
+"region": "Quebec",
+"city": "Mount Royal",
+"long": "-73.6492",
+"lat": "45.5168",
+"port": "54352"
+}

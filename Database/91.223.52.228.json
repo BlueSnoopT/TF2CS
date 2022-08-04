@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,*/*;q=0.8",
+"timezone": "Europe/Warsaw",
+"isp": "InterWan",
+"country": "Poland",
+"region": "Mazovia",
+"city": "Warsaw",
+"long": "21.034",
+"lat": "52.1726",
+"port": "45030"
+}

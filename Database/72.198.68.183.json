@@ -1,0 +1,16 @@
+{
+ "ip": "72.198.68.183",
+ "agent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam GameOverlay/1654574690; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+ "app": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+ "timezone": "America/Chicago",
+ "isp": "Cox Communications Inc.",
+        
+ "country": "United States",
+ "region": "Oklahoma",
+ "city": "Oklahoma City",
+ "long": "-97.6243",
+ "lat": "35.5999",
+        
+ "zip": "73142",
+ "port": "14999" 
+}

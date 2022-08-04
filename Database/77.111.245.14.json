@@ -1,0 +1,16 @@
+{
+ "ip": "77.111.245.14",
+ "agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53",
+ "app": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+ "timezone": "Asia/Singapore",
+ "isp": "Opera Browser VPN",
+        
+ "country": "Singapore",
+ "region": "Central Singapore",
+ "city": "Singapore",
+ "long": "103.8498",
+ "lat": "1.2902",
+        
+ "zip": "179431",
+ "port": "48298" 
+}

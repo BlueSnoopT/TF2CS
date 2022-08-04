@@ -1,0 +1,12 @@
+{
+"agent": "Cloudflare-SSLDetector",
+"accept": "Unknown",
+"timezone": "America/Chicago",
+"isp": "Cloudflare, Inc.",
+"country": "United States",
+"region": "Illinois",
+"city": "Chicago",
+"long": "-87.6298",
+"lat": "41.8781",
+"port": "40309"
+}

@@ -1,0 +1,16 @@
+{
+ "ip": "167.94.138.120",
+ "agent": "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)",
+ "app": "*/*",
+ "timezone": "America/Detroit",
+ "isp": "Censys, Inc.",
+        
+ "country": "United States",
+ "region": "Michigan",
+ "city": "Ann Arbor",
+ "long": "-83.7489",
+ "lat": "42.2809",
+        
+ "zip": "48104",
+ "port": "17494" 
+}

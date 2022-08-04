@@ -1,0 +1,12 @@
+{
+"agent": "Cloudflare-SSLDetector",
+"accept": "Unknown",
+"timezone": "America/Los_Angeles",
+"isp": "Cloudflare, Inc.",
+"country": "United States",
+"region": "California",
+"city": "Palo Alto",
+"long": "-122.143",
+"lat": "37.4419",
+"port": "46803"
+}

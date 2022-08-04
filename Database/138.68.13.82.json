@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+"accept": "*/*",
+"timezone": "America/Los_Angeles",
+"isp": "DigitalOcean, LLC",
+"country": "United States",
+"region": "California",
+"city": "Santa Clara",
+"long": "-121.9753",
+"lat": "37.3417",
+"port": "51046"
+}

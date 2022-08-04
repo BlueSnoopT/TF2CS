@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/102.0.5005.87 Mobile/15E148 Safari/604.1",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+"timezone": "America/New_York",
+"isp": "Verizon Business",
+"country": "United States",
+"region": "New York",
+"city": "Long Beach",
+"long": "-73.6594",
+"lat": "40.5832",
+"port": "39199"
+}

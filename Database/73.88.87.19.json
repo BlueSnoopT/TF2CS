@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+"timezone": "America/New_York",
+"isp": "Comcast Cable Communications",
+"country": "United States",
+"region": "South Carolina",
+"city": "Mt. Pleasant",
+"long": "-79.8029",
+"lat": "32.8707",
+"port": "21984"
+}

@@ -1,0 +1,16 @@
+{
+ "ip": "172.70.9.134",
+ "agent": "Cloudflare-SSLDetector",
+ "app": "",
+ "timezone": "America/Los_Angeles",
+ "isp": "Cloudflare, Inc.",
+        
+ "country": "United States",
+ "region": "California",
+ "city": "Palo Alto",
+ "long": "-122.143",
+ "lat": "37.4419",
+        
+ "zip": "94302",
+ "port": "21990" 
+}

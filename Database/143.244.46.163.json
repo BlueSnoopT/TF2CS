@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+"timezone": "Europe/Kiev",
+"isp": "Datacamp Limited",
+"country": "Ukraine",
+"region": "Kyiv City",
+"city": "Kyiv",
+"long": "30.5303",
+"lat": "50.458",
+"port": "55270"
+}
