@@ -1,0 +1,16 @@
+{
+ "ip": "188.125.153.46",
+ "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36",
+ "app": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+ "timezone": "Europe/Warsaw",
+ "isp": "Petrus Spolka z ograniczona odpowiedzialnoscia",
+        
+ "country": "Poland",
+ "region": "Pomerania",
+ "city": "Chojnice",
+ "long": "17.5629",
+ "lat": "53.6972",
+        
+ "zip": "89-600",
+ "port": "43332" 
+}

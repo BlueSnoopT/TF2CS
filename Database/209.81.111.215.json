@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam GameOverlay/1654574690; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"timezone": "America/Chicago",
+"isp": "Arvig Enterprises Inc.",
+"country": "United States",
+"region": "Minnesota",
+"city": "Perham",
+"long": "-95.5786",
+"lat": "46.6034",
+"port": "55980"
+}

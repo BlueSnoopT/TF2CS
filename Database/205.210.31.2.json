@@ -1,0 +1,12 @@
+{
+"agent": "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com",
+"accept": "Unknown",
+"timezone": "America/Los_Angeles",
+"isp": "Google LLC",
+"country": "United States",
+"region": "California",
+"city": "Santa Clara",
+"long": "-121.983",
+"lat": "37.3835",
+"port": "57166"
+}

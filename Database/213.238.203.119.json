@@ -1,0 +1,16 @@
+{
+ "ip": "213.238.203.119",
+ "agent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam GameOverlay/1654574690; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+ "app": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+ "timezone": "Europe/Stockholm",
+ "isp": "Broadband customers in Scandinavia",
+        
+ "country": "Sweden",
+ "region": "Skåne County",
+ "city": "Malmo",
+ "long": "12.9982",
+ "lat": "55.6078",
+        
+ "zip": "215 70",
+ "port": "54734" 
+}

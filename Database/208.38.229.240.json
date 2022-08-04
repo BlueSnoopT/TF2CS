@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam GameOverlay/1654312384; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"timezone": "America/Chicago",
+"isp": "Metronet",
+"country": "United States",
+"region": "Iowa",
+"city": "Davenport",
+"long": "-90.5461",
+"lat": "41.5576",
+"port": "20343"
+}

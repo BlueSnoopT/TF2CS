@@ -1,0 +1,12 @@
+{
+"agent": "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com",
+"accept": "Unknown",
+"timezone": "Asia/Taipei",
+"isp": "Google LLC",
+"country": "Taiwan",
+"region": "Taiwan",
+"city": "Chang-hua",
+"long": "120.562",
+"lat": "24.0717",
+"port": "58141"
+}

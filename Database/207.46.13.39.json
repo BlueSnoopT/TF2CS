@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+"accept": "*/*",
+"timezone": "America/Los_Angeles",
+"isp": "Microsoft Corporation",
+"country": "United States",
+"region": "Washington",
+"city": "Quincy",
+"long": "-119.852",
+"lat": "47.233",
+"port": "43481"
+}

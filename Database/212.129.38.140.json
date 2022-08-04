@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+"timezone": "Europe/Paris",
+"isp": "Online S.A.S.",
+"country": "France",
+"region": "Île-de-France",
+"city": "Paris",
+"long": "2.32141",
+"lat": "48.8714",
+"port": "35271"
+}

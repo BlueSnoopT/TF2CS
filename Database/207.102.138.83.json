@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/98.0.4758.102 Safari/537.36",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"timezone": "America/Vancouver",
+"isp": "TELUS Communications Inc",
+"country": "Canada",
+"region": "British Columbia",
+"city": "Burnaby",
+"long": "-123.001",
+"lat": "49.2262",
+"port": "44334"
+}
