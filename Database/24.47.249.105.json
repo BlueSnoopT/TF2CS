@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+"timezone": "America/New_York",
+"isp": "Cablevision Systems Corp.",
+"country": "United States",
+"region": "New York",
+"city": "Riverhead",
+"long": "-72.6509",
+"lat": "40.9271",
+"port": "27387"
+}

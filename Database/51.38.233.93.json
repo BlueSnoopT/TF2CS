@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+"timezone": "Europe/Paris",
+"isp": "OVH SAS",
+"country": "France",
+"region": "Hauts-de-France",
+"city": "Gravelines",
+"long": "2.12554",
+"lat": "50.9871",
+"port": "51892"
+}

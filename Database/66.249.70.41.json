@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+"accept": "text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8",
+"timezone": "America/Los_Angeles",
+"isp": "Google LLC",
+"country": "United States",
+"region": "California",
+"city": "Mountain View",
+"long": "-122.084",
+"lat": "37.422",
+"port": "10739"
+}

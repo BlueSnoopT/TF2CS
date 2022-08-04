@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.72",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"timezone": "Africa/Casablanca",
+"isp": "ADSL Maroc telecom",
+"country": "Morocco",
+"region": "Casablanca-Settat",
+"city": "Casablanca",
+"long": "-7.6184",
+"lat": "33.5922",
+"port": "62911"
+}

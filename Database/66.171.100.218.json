@@ -1,0 +1,16 @@
+{
+ "ip": "66.171.100.218",
+ "agent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; en-US; Valve Steam GameOverlay/1654574690; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36",
+ "app": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+ "timezone": "America/Vancouver",
+ "isp": "TELUS Communications Inc.",
+        
+ "country": "Canada",
+ "region": "British Columbia",
+ "city": "Chase",
+ "long": "-119.6804",
+ "lat": "50.8136",
+        
+ "zip": "V0E",
+ "port": "48390" 
+}

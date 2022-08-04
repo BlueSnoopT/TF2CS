@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36",
+"accept": "*/*",
+"timezone": "America/Chicago",
+"isp": "EonScope, Inc",
+"country": "United States",
+"region": "Illinois",
+"city": "Chicago",
+"long": "-87.6298",
+"lat": "41.8781",
+"port": "24829"
+}

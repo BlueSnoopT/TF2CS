@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+"timezone": "America/Los_Angeles",
+"isp": "Palo Alto Networks",
+"country": "United States",
+"region": "California",
+"city": "Santa Clara",
+"long": "-121.983",
+"lat": "37.3833",
+"port": "25559"
+}

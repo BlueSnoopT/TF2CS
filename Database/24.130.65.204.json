@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+"timezone": "America/Los_Angeles",
+"isp": "Comcast Cable Communications, LLC",
+"country": "United States",
+"region": "California",
+"city": "Sunnyvale",
+"long": "-122.0194",
+"lat": "37.3773",
+"port": "42590"
+}

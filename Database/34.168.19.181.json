@@ -1,0 +1,16 @@
+{
+ "ip": "34.168.19.181",
+ "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36",
+ "app": "",
+ "timezone": "America/Los_Angeles",
+ "isp": "Google LLC",
+        
+ "country": "United States",
+ "region": "Oregon",
+ "city": "The Dalles",
+ "long": "-121.1786",
+ "lat": "45.5945",
+        
+ "zip": "97058",
+ "port": "36870" 
+}

@@ -1,0 +1,12 @@
+{
+"agent": "Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0",
+"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+"timezone": "America/Indiana/Indianapolis",
+"isp": "Charter Communications",
+"country": "United States",
+"region": "Indiana",
+"city": "Carmel",
+"long": "-86.0829",
+"lat": "39.9744",
+"port": "12866"
+}
